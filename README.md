@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Reach me through:
+  - [LinkedIn](https://www.linkedin.com/in/carmelo/)
+  - [Twitter](https://twitter.com/carmelo0x99)
+  - [Keybase](https://keybase.io/carmelo)
