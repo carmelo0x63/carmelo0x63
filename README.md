@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   - [LinkedIn](https://www.linkedin.com/in/carmelo/)
   - [Twitter](https://twitter.com/carmelo0x99)
   - [Keybase](https://keybase.io/carmelo)
+  - [Instagram](https://www.instagram.com/carmelo0x99/)
+
