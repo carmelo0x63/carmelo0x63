@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif =250x)
+<img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250">
+
