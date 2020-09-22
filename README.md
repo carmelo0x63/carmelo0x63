@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>
+    <tdi width="50%">
      <ul>
       <li>📫 Reach me through:</li>
        <ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/carmelo/)
-  <li>[Keybase](https://keybase.io/carmelo)
-  - [GitHub](https://github.com/carmelo0x99)
-    - [GitHub Pages](https://carmelo0x99.github.io/)
-  - [Bitbucket](https://bitbucket.org/carmelo0x99/)
-  - [Docker Hub](https://hub.docker.com/u/carmelo0x99)
-  - [Twitter](https://twitter.com/carmelo0x99)
-  - [Reddit](https://www.reddit.com/user/carmelo0x99)
-  - [Instagram](https://www.instagram.com/carmelo0x99/)
+        <li>[LinkedIn](https://www.linkedin.com/in/carmelo/)</li>
+        <li>[Keybase](https://keybase.io/carmelo)</li>
+        <li>[GitHub](https://github.com/carmelo0x99)</li>
+         <ul><li>[GitHub Pages](https://carmelo0x99.github.io/)</li></ul>
+        <li>[Bitbucket](https://bitbucket.org/carmelo0x99/)</li>
+        <li>[Docker Hub](https://hub.docker.com/u/carmelo0x99)</li>
+        <li>[Twitter](https://twitter.com/carmelo0x99)</li>
+        <li>[Reddit](https://www.reddit.com/user/carmelo0x99)</li>
+        <li>[Instagram](https://www.instagram.com/carmelo0x99/)</li>
        </ul>
      </ul>
     </td>
