@@ -32,7 +32,7 @@ Here are some ideas to get you started:
      <ul>
       <li>📫 Reach me through:</li>
        <ul>
-        <li><a http="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
         <li>[Keybase](https://keybase.io/carmelo)</li>
         <li>[GitHub](https://github.com/carmelo0x99)</li>
          <ul><li>[GitHub Pages](https://carmelo0x99.github.io/)</li></ul>
