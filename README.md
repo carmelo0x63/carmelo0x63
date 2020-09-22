@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <tdi width="50%">
+    <td width="50%">
      <ul>
       <li>📫 Reach me through:</li>
        <ul>
