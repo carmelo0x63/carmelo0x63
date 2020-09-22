@@ -26,18 +26,14 @@ Here are some ideas to get you started:
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 
-
-|row1  |row2  |
-|------|------|
-|cell1 |cell2 |
-|nothing|<img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250">|
-
 <table>
   <tr>
     <td>
-- 📫 Reach me through:
-  - [LinkedIn](https://www.linkedin.com/in/carmelo/)
-  - [Keybase](https://keybase.io/carmelo)
+     <ul>
+      <li>📫 Reach me through:</li>
+       <ul>
+  <li>[LinkedIn](https://www.linkedin.com/in/carmelo/)
+  <li>[Keybase](https://keybase.io/carmelo)
   - [GitHub](https://github.com/carmelo0x99)
     - [GitHub Pages](https://carmelo0x99.github.io/)
   - [Bitbucket](https://bitbucket.org/carmelo0x99/)
@@ -45,9 +41,9 @@ Here are some ideas to get you started:
   - [Twitter](https://twitter.com/carmelo0x99)
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
+       </ul>
+     </ul>
     </td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250"></td>
   </tr>
 </table>
