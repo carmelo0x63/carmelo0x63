@@ -26,13 +26,13 @@ Here are some ideas to get you started:
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
      <ul>
       <li>📫 Reach me through:</li>
        <ul>
-        <li>[LinkedIn](https://www.linkedin.com/in/carmelo/)</li>
+        <li><a src="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
         <li>[Keybase](https://keybase.io/carmelo)</li>
         <li>[GitHub](https://github.com/carmelo0x99)</li>
          <ul><li>[GitHub Pages](https://carmelo0x99.github.io/)</li></ul>
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
        </ul>
      </ul>
     </td>
-    <td><img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250"></td>
+    <td><img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif"></td>
   </tr>
 </table>
