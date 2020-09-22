@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 📫 Reach me through:
   - [LinkedIn](https://www.linkedin.com/in/carmelo/)
@@ -25,10 +24,11 @@ Here are some ideas to get you started:
   - [Twitter](https://twitter.com/carmelo0x99)
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
+-->
 
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="30%">
      <ul>
       <li>📫 Reach me through:</li>
        <ul>
