@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 -->
 
-<link rel="stylesheet" href="styles.css">
-<table class="no-border">
+<table border="0">
   <tr>
     <td width="30%">
      <ul>
