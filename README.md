@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 
 
-![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif =250x)
