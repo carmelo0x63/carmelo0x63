@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 
 
-![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif =250x)
-<img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250">
+|row1  |row2  |
+|------|------|
+|cell1 |cell2 |
+|nothing|<img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250">|
 
