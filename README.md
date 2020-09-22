@@ -26,3 +26,5 @@ Here are some ideas to get you started:
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 
+
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
