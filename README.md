@@ -32,3 +32,22 @@ Here are some ideas to get you started:
 |cell1 |cell2 |
 |nothing|<img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250">|
 
+<table>
+  <tr>
+    <td>
+- 📫 Reach me through:
+  - [LinkedIn](https://www.linkedin.com/in/carmelo/)
+  - [Keybase](https://keybase.io/carmelo)
+  - [GitHub](https://github.com/carmelo0x99)
+    - [GitHub Pages](https://carmelo0x99.github.io/)
+  - [Bitbucket](https://bitbucket.org/carmelo0x99/)
+  - [Docker Hub](https://hub.docker.com/u/carmelo0x99)
+  - [Twitter](https://twitter.com/carmelo0x99)
+  - [Reddit](https://www.reddit.com/user/carmelo0x99)
+  - [Instagram](https://www.instagram.com/carmelo0x99/)
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" width="250"></td>
+  </tr>
+</table>
