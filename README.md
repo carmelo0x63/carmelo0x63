@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <td>
        <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=Linux&logoColor=white">
        <img src="https://img.shields.io/badge/-Unix-brightgreen.svg?style=flat&logo=Unix&logoColor=white">
-       <img src="https://img.shields.io/badge/-Solaris-brightgreen.svg?style=flat&logo=Solaris&logoColor=white">
+       <img src="https://img.shields.io/badge/-Solaris-brightgreen.svg?style=flat&logo=Oracle&logoColor=white">
        <img src="https://img.shields.io/badge/-KVM-green.svg?style=flat&logo=KVM&logoColor=white">
        <img src="https://img.shields.io/badge/-Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white">
        <img src="https://img.shields.io/badge/-K3s-0075A8.svg?style=flat&logo=Rancher&logoColor=white">
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Git-F05032.svg?style=flat&logo=Git&logoColor=white">
        <img src="https://img.shields.io/badge/-Gogs-yellow.svg?style=flat&logo=Gogs&logoColor=white">
        <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=Drone&logoColor=white">
-       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=RaspberryPi&logoColor=white">
-       <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white">
+       <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
+       <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white">
        </br>
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
