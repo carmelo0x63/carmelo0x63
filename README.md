@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   </tr>
     <td width="30%">Tools 🔧 of my trade</td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-8a39a1.svg?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python-8a39a1.svg?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Docker-8b40a2.svg?style=flat&logo=Docker&logoColor=white"><img src="https://img.shields.io/badge/-Git-8c41a2.svg?style=flat&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/-Gogs-8d42a3.svg?style=flat&logo=Gogs&logoColor=white">
     </td>
   <tr>
 </table>
