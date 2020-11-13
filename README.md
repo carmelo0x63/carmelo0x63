@@ -46,5 +46,11 @@ Here are some ideas to get you started:
     </td>
     <td><img src="Social_dino_with_hat.gif"></td>
   </tr>
+  </tr>
+    <td width="30%">Tools 🔧 of my trade</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-8a39a1.svg?style=flat&logo=python&logoColor=white">
+    </td>
+  <tr>
 </table>
 
