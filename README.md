@@ -50,9 +50,9 @@ Here are some ideas to get you started:
     <td width="30%">Tools 🔧 of my trade</td>
     <td>
        <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=Linux&logoColor=white">
-       <img src="https://img.shields.io/badge/-Unix-brightgreen.svg?style=flat&logo=Unix&logoColor=white">
-       <img src="https://img.shields.io/badge/-Solaris-brightgreen.svg?style=flat&logo=Oracle&logoColor=white">
-       <img src="https://img.shields.io/badge/-KVM-green.svg?style=flat&logo=KVM&logoColor=white">
+       <img src="https://img.shields.io/badge/-Unix-A42E2B.svg?style=flat&logo=gnu&logoColor=white">
+       <img src="https://img.shields.io/badge/-Solaris-F80000.svg?style=flat&logo=Oracle&logoColor=white">
+       <img src="https://img.shields.io/badge/-KVM-EE0000.svg?style=flat&logo=redhat&logoColor=white">
        <img src="https://img.shields.io/badge/-Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white">
        <img src="https://img.shields.io/badge/-K3s-0075A8.svg?style=flat&logo=Rancher&logoColor=white">
        <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white">
