@@ -61,11 +61,14 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=Python&logoColor=white">
        <img src="https://img.shields.io/badge/-Go-00ADD8.svg?style=flat&logo=Go&logoColor=white">
        <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?style=flat&logo=Haskell&logoColor=white">
+       <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white">
        <img src="https://img.shields.io/badge/-Git-F05032.svg?style=flat&logo=Git&logoColor=white">
        <img src="https://img.shields.io/badge/-Gogs-yellow.svg?style=flat&logo=Gogs&logoColor=white">
        <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=Drone&logoColor=white">
        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=RaspberryPi&logoColor=white">
        <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white">
+       </br>
+       <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   <tr>
 </table>
