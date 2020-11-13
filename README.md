@@ -54,7 +54,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Solaris-brightgreen.svg?style=flat&logo=Solaris&logoColor=white">
        <img src="https://img.shields.io/badge/-KVM-green.svg?style=flat&logo=KVM&logoColor=white">
        <img src="https://img.shields.io/badge/-Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white">
-       <img src="https://img.shields.io/badge/-Rancher-0075A8.svg?style=flat&logo=K3s&logoColor=white">
+       <img src="https://img.shields.io/badge/-K3s-0075A8.svg?style=flat&logo=Rancher&logoColor=white">
        <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white">
        <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=VMware&logoColor=white">
        <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=Cisco&logoColor=white">
