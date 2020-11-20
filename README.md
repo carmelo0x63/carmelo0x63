@@ -65,6 +65,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
        <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
        <img src="https://img.shields.io/badge/-Git-F05032.svg?style=flat&logo=git&logoColor=white">
+       <img src="https://img.shields.io/badge/-Gitea-609926.svg?style=flat&logo=gitea&logoColor=white">
        <img src="https://img.shields.io/badge/-Gogs-yellow.svg?style=flat&logo=gogs&logoColor=white">
        <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=drone&logoColor=white">
        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
