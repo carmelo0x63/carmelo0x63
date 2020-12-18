@@ -59,6 +59,8 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
        <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=vmware&logoColor=white">
        <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=cisco&logoColor=white">
+       <img src="https://img.shields.io/badge/-Terraform-623CE4.svg?style=flat&logo=terraform&logoColor=white">
+       <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white">
        <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white">
        <img src="https://img.shields.io/badge/-Go-00ADD8.svg?style=flat&logo=go&logoColor=white">
        <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?style=flat&logo=haskell&logoColor=white">
@@ -72,6 +74,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=drone&logoColor=white">
        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
        <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white">
+       <img src="https://img.shields.io/badge/-Jetson-Nano-76B900.svg?style=flat&logo=nvidia&logoColor=white">
        </br>
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
