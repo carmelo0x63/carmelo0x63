@@ -74,7 +74,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=drone&logoColor=white">
        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
        <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white">
-       <img src="https://img.shields.io/badge/-Jetson-Nano-76B900.svg?style=flat&logo=nvidia&logoColor=white">
+       <img src="https://img.shields.io/badge/-Nvidia-76B900.svg?style=flat&logo=Jetson&logoColor=white">
        </br>
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
