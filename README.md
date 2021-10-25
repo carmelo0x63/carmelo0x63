@@ -25,11 +25,6 @@ Here are some ideas to get you started:
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
 -->
-## GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=tokyonight" width="400" height="150"/>
-</a>
 
 <table border="0">
   <tr>
@@ -84,5 +79,12 @@ Here are some ideas to get you started:
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   <tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=tokyonight" width="400" height="150"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
