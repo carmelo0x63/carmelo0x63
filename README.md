@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     </td>
     <td><img src="Social_dino_with_hat.gif"></td>
   </tr>
-  </tr>
+  <tr>
     <td width="30%">Tools 🔧 of my trade</td>
     <td>
        <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
@@ -77,13 +77,6 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Nvidia-76B900.svg?style=flat&logo=nvidia&logoColor=white">
        </br>
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
-    </td>
-  <tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=tokyonight" width="400" height="150"/>
-      </a>
     </td>
   </tr>
 </table>
