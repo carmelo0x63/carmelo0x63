@@ -1,9 +1,9 @@
 name: Update badges
 
-on:
-  schedule:
+#on:
+#  schedule:
     # Runs at 00:10am UTC every day
-    - cron: "22 30 * * *"
+#    - cron: "22 30 * * *"
 
 jobs:
   update-readme:
