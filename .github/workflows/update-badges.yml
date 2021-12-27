@@ -1,6 +1,6 @@
 name: Update badges
 
-#on:
+on: push
 #  schedule:
     # Runs at 00:10am UTC every day
 #    - cron: "22 30 * * *"
