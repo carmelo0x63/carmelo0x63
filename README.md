@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <td>
        <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
        <img src="https://img.shields.io/badge/-Unix-A42E2B.svg?style=flat&logo=gnu&logoColor=white">
-       <img src="https://img.shields.io/badge/-AWS-232F3E.svg?style=flat&logo=gnu&logoColor=white">
+       <img src="https://img.shields.io/badge/-AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white">
        <img src="https://img.shields.io/badge/-Solaris-F80000.svg?style=flat&logo=oracle&logoColor=white">
        <img src="https://img.shields.io/badge/-Red Hat-EE0000.svg?style=flat&logo=redhat&logoColor=white">
        <img src="https://img.shields.io/badge/-KVM-EE0000.svg?style=flat&logo=redhatopenshift&logoColor=white">
