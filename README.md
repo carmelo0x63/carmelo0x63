@@ -61,6 +61,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=vmware&logoColor=white">
        <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=cisco&logoColor=white">
        <img src="https://img.shields.io/badge/-Terraform-623CE4.svg?style=flat&logo=terraform&logoColor=white">
+       <img src="https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat&logo=vagrant&logoColor=white">
        <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white">
        <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white">
        <img src="https://img.shields.io/badge/-Go-00ADD8.svg?style=flat&logo=go&logoColor=white">
