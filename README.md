@@ -80,12 +80,14 @@ Here are some ideas to get you started:
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   </tr>
-  <tr>
+<!--  <tr>
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical">
     </td>
-  </tr>
+  </tr>//-->
 </table>
+
+![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
