@@ -90,5 +90,11 @@ Here are some ideas to get you started:
 ![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical)
 
 <!--START_SECTION:badges-->
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](http://www.credly.com/badges/c7930113-a83a-4a16-abdc-22bfb8a56fba "AWS Certified Cloud Practitioner")
+[![Professional Services Engineer Green Belt](https://images.credly.com/size/110x110/images/77926150-00bf-4908-8c11-5841aa2456e7/Green_Belt-Professional_Services_Engineer.png)](http://www.credly.com/badges/c6b4ec84-f00f-4d5d-85ec-89f92d63cc6b "Professional Services Engineer Green Belt")
+[![Data Science @Cisco Green Belt](https://images.credly.com/size/110x110/images/ff1f45a0-4a03-4bac-af76-8dd934dae7c0/Data_Science_Green_Belt.png)](http://www.credly.com/badges/a941ddb3-ccb8-4985-85c7-b638f5875f71 "Data Science @Cisco Green Belt")
+[![DevNet Class of 2020](https://images.credly.com/size/110x110/images/4d054f39-f581-4442-8923-c5cd32720ef6/Classof2020-badge-600x600.png)](http://www.credly.com/badges/9b50cd69-34e1-4fa4-ba8b-4a6f395ac167 "DevNet Class of 2020")
+[![Cisco Certified DevNet Associate](https://images.credly.com/size/110x110/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png)](http://www.credly.com/badges/2dc090ad-c7f5-444b-a2e8-705276b9e73b "Cisco Certified DevNet Associate")
 <!--END_SECTION:badges-->
 
