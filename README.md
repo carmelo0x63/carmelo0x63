@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td colspan="2">
-      ![Carmelo`s GitHub stats](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical">
     </td>
   </tr>
 </table>
