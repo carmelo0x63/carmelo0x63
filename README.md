@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   </tr>//-->
 </table>
 
-![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=vue)
+[![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
