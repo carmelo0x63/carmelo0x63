@@ -48,9 +48,9 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td width="30%">Tools 🔧 of my trade</td>
-    <td>
+    <td>aaa
       <table border="1">
-        <td>
+        <td>bbb
           <tr>
             <p>OSs/Infrastructure</p>
             <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
