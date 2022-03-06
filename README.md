@@ -49,57 +49,58 @@ Here are some ideas to get you started:
   <tr>
     <td width="30%">Tools 🔧 of my trade</td>
     <td>
-<table><td>
-      <tr>
-        <p>OSs/Infrastructure</p>
-        <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
-        <img src="https://img.shields.io/badge/-Unix-A42E2B.svg?style=flat&logo=gnu&logoColor=white">
-        <img src="https://img.shields.io/badge/-AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/-Solaris-F80000.svg?style=flat&logo=oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/-Red Hat-EE0000.svg?style=flat&logo=redhat&logoColor=white">
-        <img src="https://img.shields.io/badge/-KVM-EE0000.svg?style=flat&logo=redhatopenshift&logoColor=white">
-        <img src="https://img.shields.io/badge/-Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/-K3s-0075A8.svg?style=flat&logo=rancher&logoColor=white">
-        <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
-        <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=vmware&logoColor=white">
-        <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=cisco&logoColor=white">
-      </tr>
-      <tr>
-        <p>IaC</p>
-        <img src="https://img.shields.io/badge/-Terraform-623CE4.svg?style=flat&logo=terraform&logoColor=white">
-        <img src="https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat&logo=vagrant&logoColor=white">
-        <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white">
-      </tr>
-      <tr>
-        <p>Coding</p>
-        <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/-Go-00ADD8.svg?style=flat&logo=go&logoColor=white">
-        <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?style=flat&logo=haskell&logoColor=white">
-        <img src="https://img.shields.io/badge/-nodedotjs-339933.svg?style=flat&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
-      </tr>
-      <tr>
-        <p>Databases</p>
-        <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/-Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
-      </tr>
-      <tr>
-        <p>CI/CD</p>
-        <img src="https://img.shields.io/badge/-Git-F05032.svg?style=flat&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/-Gitea-609926.svg?style=flat&logo=gitea&logoColor=white">
-        <img src="https://img.shields.io/badge/-Gogs-yellow.svg?style=flat&logo=gogs&logoColor=white">
-        <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=drone&logoColor=white">
-      </tr>
-      <tr>
-        <p>IoT</p>
-        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
-        <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white">
-        <img src="https://img.shields.io/badge/-Nvidia-76B900.svg?style=flat&logo=nvidia&logoColor=white">
-      </tr>
-</td></table>
-       </br>
-       <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
+      <table border="1">
+        <td>
+          <tr>
+            <p>OSs/Infrastructure</p>
+            <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
+            <img src="https://img.shields.io/badge/-Unix-A42E2B.svg?style=flat&logo=gnu&logoColor=white">
+            <img src="https://img.shields.io/badge/-AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white">
+            <img src="https://img.shields.io/badge/-Solaris-F80000.svg?style=flat&logo=oracle&logoColor=white">
+            <img src="https://img.shields.io/badge/-Red Hat-EE0000.svg?style=flat&logo=redhat&logoColor=white">
+            <img src="https://img.shields.io/badge/-KVM-EE0000.svg?style=flat&logo=redhatopenshift&logoColor=white">
+            <img src="https://img.shields.io/badge/-Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
+            <img src="https://img.shields.io/badge/-K3s-0075A8.svg?style=flat&logo=rancher&logoColor=white">
+            <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
+            <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=vmware&logoColor=white">
+            <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=cisco&logoColor=white">
+          </tr>
+          <tr>
+            <p>IaC</p>
+            <img src="https://img.shields.io/badge/-Terraform-623CE4.svg?style=flat&logo=terraform&logoColor=white">
+            <img src="https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat&logo=vagrant&logoColor=white">
+            <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white">
+          </tr>
+          <tr>
+            <p>Coding</p>
+            <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/-Go-00ADD8.svg?style=flat&logo=go&logoColor=white">
+            <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?style=flat&logo=haskell&logoColor=white">
+            <img src="https://img.shields.io/badge/-nodedotjs-339933.svg?style=flat&logo=nodedotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
+          </tr>
+          <tr>
+            <p>Databases</p>
+            <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white">
+            <img src="https://img.shields.io/badge/-Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
+            <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
+          </tr>
+          <tr>
+            <p>CI/CD</p>
+            <img src="https://img.shields.io/badge/-Git-F05032.svg?style=flat&logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/-Gitea-609926.svg?style=flat&logo=gitea&logoColor=white">
+            <img src="https://img.shields.io/badge/-Gogs-yellow.svg?style=flat&logo=gogs&logoColor=white">
+            <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=drone&logoColor=white">
+          </tr>
+          <tr>
+            <p>IoT</p>
+            <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
+            <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white">
+            <img src="https://img.shields.io/badge/-Nvidia-76B900.svg?style=flat&logo=nvidia&logoColor=white">
+          </tr>
+        </td>
+      </table>
+      <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   </tr>
 <!--  <tr>
