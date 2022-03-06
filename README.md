@@ -65,12 +65,16 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=vmware&logoColor=white">
             <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=cisco&logoColor=white">
           </td>
+        </tr>
+        <tr>
           <td>
             <p>IaC</p>
             <img src="https://img.shields.io/badge/-Terraform-623CE4.svg?style=flat&logo=terraform&logoColor=white">
             <img src="https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat&logo=vagrant&logoColor=white">
             <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?style=flat&logo=ansible&logoColor=white">
           </td>
+        </tr>
+        <tr>
           <td>
             <p>Coding</p>
             <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white">
@@ -79,12 +83,16 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/-nodedotjs-339933.svg?style=flat&logo=nodedotjs&logoColor=white">
             <img src="https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
           </td>
+        </tr>
+        <tr>
           <td>
             <p>Databases</p>
             <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white">
             <img src="https://img.shields.io/badge/-Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
             <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
           </td>
+        </tr>
+        <tr>
           <td>
             <p>CI/CD</p>
             <img src="https://img.shields.io/badge/-Git-F05032.svg?style=flat&logo=git&logoColor=white">
@@ -92,6 +100,8 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/-Gogs-yellow.svg?style=flat&logo=gogs&logoColor=white">
             <img src="https://img.shields.io/badge/-Drone-212121.svg?style=flat&logo=drone&logoColor=white">
           </td>
+        </tr>
+        <tr>
           <td>
             <p>IoT</p>
             <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white">
