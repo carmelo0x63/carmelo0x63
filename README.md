@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="30%">Tools 🔧 of my trade</td>
     <td>
+<table><td>
       <tr>
         <p>OSs/Infrastructure</p>
         <img src="https://img.shields.io/badge/-Linux-FCC624.svg?style=flat&logo=linux&logoColor=white">
@@ -96,6 +97,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white">
         <img src="https://img.shields.io/badge/-Nvidia-76B900.svg?style=flat&logo=nvidia&logoColor=white">
       </tr>
+</td></table>
        </br>
        <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
