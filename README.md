@@ -66,6 +66,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white">
        <img src="https://img.shields.io/badge/-Go-00ADD8.svg?style=flat&logo=go&logoColor=white">
        <img src="https://img.shields.io/badge/-Haskell-5D4F85.svg?style=flat&logo=haskell&logoColor=white">
+       <img src="https://img.shields.io/badge/-nodedotjs-339933.svg?style=flat&logo=nodedotjs&logoColor=white">
        <img src="https://img.shields.io/badge/-MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white">
        <img src="https://img.shields.io/badge/-Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
        <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white">
