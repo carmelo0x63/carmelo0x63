@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <td><img src="Social_dino_with_hat.gif"></td>
   </tr>
   <tr>
-    <td width="30%">Tools 🔧 of my trade</td>
+    <td width="30%">Tools 🔧 of my trade ➙</td>
     <td>
       <table border="1">
         <tr>
