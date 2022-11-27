@@ -48,7 +48,7 @@ Here are some ideas to get you started:
        </ul>
      </ul>
     </td>
-    <td width="50%"><img src="Social_dino_with_hat.gif" height="50%" width="50%"></td>
+    <td width="50%"><img src="Social_dino_with_hat.gif"></td>
   </tr>
   <tr>
     <td width="20%">Tools 🔧 of my trade ➙</td>
