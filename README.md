@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </table>
 <table border="0">
   <tr>
-    <td width="20%">Tools 🔧 of my trade ➙</td>
+    <td width="30%">Tools 🔧 of my trade ➙</td>
     <td>
       <table border="1">
         <tr>
