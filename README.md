@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - [Twitter](https://twitter.com/carmelo0x99)
 -->
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="50%">
      <ul>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <td width="50%"><img src="Social_dino_with_hat.gif"></td>
   </tr>
 </table>
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="30%">Tools 🔧 of my trade ➙</td>
     <td>
