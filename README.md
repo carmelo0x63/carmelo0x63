@@ -48,10 +48,10 @@ Here are some ideas to get you started:
        </ul>
      </ul>
     </td>
-    <td><img src="Social_dino_with_hat.gif"></td>
+    <td><img src="Social_dino_with_hat.gif" height="50%" width="50%"></td>
   </tr>
   <tr>
-    <td width="30%">Tools 🔧 of my trade ➙</td>
+    <td width="20%">Tools 🔧 of my trade ➙</td>
     <td>
       <table border="1">
         <tr>
