@@ -19,10 +19,12 @@ Here are some ideas to get you started:
   - [Keybase](https://keybase.io/carmelo)
   - [GitHub](https://github.com/carmelo0x99)
     - [GitHub Pages](https://carmelo0x99.github.io/)
+  - [GitLab](https://gitlab.com/carmelo0x99)
   - [Bitbucket](https://bitbucket.org/carmelo0x99/)
   - [Render](https://carmelo.onrender.com/)
   - [Docker Hub](https://hub.docker.com/u/carmelo0x99)
-  - [Mastodon](https://mastodon.online/@carmelo)
+  - [Hachyderm.io](https://hachyderm.io/@carmelo)
+  - [Mastodon.online](https://mastodon.online/@carmelo)
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
   - [Instagram](https://www.instagram.com/carmelo0x99/)
   - [Twitter](https://twitter.com/carmelo0x99)
@@ -38,9 +40,11 @@ Here are some ideas to get you started:
         <li><a href="https://keybase.io/carmelo">Keybase</a></li>
         <li><a href="https://github.com/carmelo0x99">GitHub</a></li>
          <ul><li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li></ul>
+        <li><a href="https://gitlab.com/carmelo0x99/">GitLab</a></li>
         <li><a href="https://bitbucket.org/carmelo0x99/">Bitbucket</a></li>
         <li><a href="https://carmelo.onrender.com/">Bitbucket</a></li>
         <li><a href="https://hub.docker.com/u/carmelo0x99">Docker Hub</a></li>
+        <li><a href="https://hachyderm.io/@carmelo">Mastodon (@carmelo@hachyderm.io)</a></li>
         <li><a href="https://mastodon.online/@carmelo">Mastodon (@carmelo@mastodon.online)</a></li>
         <li><a href="https://www.reddit.com/user/carmelo0x99">Reddit</a></li>
         <li><a href="https://www.instagram.com/carmelo0x99/">Instagram</a></li>
