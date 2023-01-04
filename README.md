@@ -124,6 +124,13 @@ Here are some ideas to get you started:
       <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>Old style resume:</p>
+      <pre>groff -man -Tascii ./carmelo.7</pre>
+      <img src="./groff.png">
+    </td>
+  </tr>
 <!--  <tr>
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical">
