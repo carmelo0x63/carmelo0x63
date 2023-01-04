@@ -125,9 +125,11 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="30%">Tools 🔧 of my trade ➙</td>
       <p>Old style resume:</p>
       <pre>groff -man -Tascii ./carmelo.7</pre>
+    </td>
+    <td>
       <img src="./groff.png">
     </td>
   </tr>
