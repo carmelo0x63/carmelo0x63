@@ -124,6 +124,8 @@ Here are some ideas to get you started:
       <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   </tr>
+</table>
+<table border="0" width="100%">
   <tr>
     <td width="30%">
       <p>Old style resume:</p>
