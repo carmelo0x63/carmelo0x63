@@ -149,7 +149,6 @@ Here are some ideas to get you started:
 [![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
-[![OCP for CyberSecurity Professionals](https://bestr.it/filemanager/show/a1ffd5ed-2497-4e93-9176-70c6b5fad582.png)](https://bestr.it/filemanager/show/a1ffd5ed-2497-4e93-9176-70c6b5fad582.png "OCP for CyberSecurity Professionals")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c7930113-a83a-4a16-abdc-22bfb8a56fba "AWS Certified Cloud Practitioner")
 [![Professional Services Engineer Green Belt](https://images.credly.com/size/110x110/images/77926150-00bf-4908-8c11-5841aa2456e7/Green_Belt-Professional_Services_Engineer.png)](http://www.credly.com/badges/c6b4ec84-f00f-4d5d-85ec-89f92d63cc6b "Professional Services Engineer Green Belt")
 [![Data Science @Cisco Green Belt](https://images.credly.com/size/110x110/images/ff1f45a0-4a03-4bac-af76-8dd934dae7c0/Data_Science_Green_Belt.png)](http://www.credly.com/badges/a941ddb3-ccb8-4985-85c7-b638f5875f71 "Data Science @Cisco Green Belt")
