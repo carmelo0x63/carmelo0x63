@@ -44,6 +44,7 @@ Here are some ideas to get you started:
           <ul>
             <li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li>
             <li><a href="https://carmelo.onrender.com/">Render</a></li>
+            <li><a href="https://doxshare.netlify.app/">Netlify</a></li>
           </ul>
         <li><a href="https://hub.docker.com/u/carmelo0x99">Docker Hub</a></li>
         <li><a href="https://joinmastodon.org/">Mastodon</a></li>
