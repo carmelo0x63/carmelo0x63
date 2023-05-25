@@ -34,15 +34,17 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%">
      <ul>
-      <li>📫 Reach me through:</li>
+      <li>📫 You can find me on:</li>
        <ul>
         <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
         <li><a href="https://keybase.io/carmelo">Keybase</a></li>
         <li><a href="https://github.com/carmelo0x99">GitHub</a></li>
-          <ul><li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li></ul>
         <li><a href="https://gitlab.com/carmelo0x99/">GitLab</a></li>
         <li><a href="https://bitbucket.org/carmelo0x99/">Bitbucket</a></li>
-        <li><a href="https://carmelo.onrender.com/">Bitbucket</a></li>
+          <ul>
+            <li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li>
+            <li><a href="https://carmelo.onrender.com/">Render</a></li>
+          </ul>
         <li><a href="https://hub.docker.com/u/carmelo0x99">Docker Hub</a></li>
         <li><a href="https://joinmastodon.org/">Mastodon</a></li>
           <ul>
