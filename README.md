@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <table border="0" width="100%">
   <tr>
     <td width="50%">
+     You can stumble across me on:
      <ul>
       <li>👀 You can stumble across me on:</li>
 <ul>Social sites>
