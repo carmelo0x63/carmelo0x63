@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <td width="50%">
      <ul>
       <li>👀 You can stumble across me on:</li>
-<ul><p>Social sites</p>
+<ul>Social sites>
        <ul>
         <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
         <li><a href="https://keybase.io/carmelo">Keybase</a></li>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
             <li><a href="https://mastodon.online/@carmelo">@carmelo@mastodon.online</a></li>
           </ul>
 </ul>
-<ul>
+<ul>Coding and other geeky sites
         <li><a href="https://github.com/carmelo0x99">GitHub</a></li>
         <li><a href="https://gitlab.com/carmelo0x99/">GitLab</a></li>
         <li><a href="https://bitbucket.org/carmelo0x99/">Bitbucket</a></li>
