@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="30%">Tools 🔧 of my trade ➙</td>
     <td>
-      <table border="1">
+      <table border="1" width="70%">
         <tr>
           <td>
             <p>OSs/Infrastructure</p>
