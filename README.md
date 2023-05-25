@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%">
      <ul>
-      <li>📫 You can find me on:</li>
+      <li>👀 You can find me on:</li>
        <ul>
         <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
         <li><a href="https://keybase.io/carmelo">Keybase</a></li>
