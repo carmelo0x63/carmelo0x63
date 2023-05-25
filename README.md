@@ -33,36 +33,35 @@ Here are some ideas to get you started:
 <table border="0" width="100%">
   <tr>
     <td width="50%">
-     You can stumble across me on:
-     <ul>
-      <li>👀 You can stumble across me on:</li>
-<ul>Social sites>
-       <ul>
-        <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
-        <li><a href="https://keybase.io/carmelo">Keybase</a></li>
-        <li><a href="https://www.reddit.com/user/carmelo0x99">Reddit</a></li>
-        <li><a href="https://www.instagram.com/carmelo0x99/">Instagram</a></li>
-        <li><a href="https://twitter.com/carmelo0x99">Twitter</a></li>
-        <li><a href="https://joinmastodon.org/">Mastodon</a></li>
+      You can stumble across me on:
+      <ul>
+        <li>Social sites</li>
           <ul>
-            <li><a href="https://infosec.exchange/@carmelo0x99">@carmelo@infosec.exchange</a></li>
-            <li><a href="https://hachyderm.io/@carmelo">@carmelo@hachyderm.io</a></li>
-            <li><a href="https://mastodon.online/@carmelo">@carmelo@mastodon.online</a></li>
-          </ul>
-</ul>
-<ul>Coding and other geeky sites
-        <li><a href="https://github.com/carmelo0x99">GitHub</a></li>
-        <li><a href="https://gitlab.com/carmelo0x99/">GitLab</a></li>
-        <li><a href="https://bitbucket.org/carmelo0x99/">Bitbucket</a></li>
-        <li><a href="https://hub.docker.com/u/carmelo0x99">Docker Hub</a></li>
+            <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
+            <li><a href="https://keybase.io/carmelo">Keybase</a></li>
+            <li><a href="https://www.reddit.com/user/carmelo0x99">Reddit</a></li>
+            <li><a href="https://www.instagram.com/carmelo0x99/">Instagram</a></li>
+            <li><a href="https://twitter.com/carmelo0x99">Twitter</a></li>
+            <li><a href="https://joinmastodon.org/">Mastodon</a></li>
+              <ul>
+                <li><a href="https://infosec.exchange/@carmelo0x99">@carmelo@infosec.exchange</a></li>
+                <li><a href="https://hachyderm.io/@carmelo">@carmelo@hachyderm.io</a></li>
+                <li><a href="https://mastodon.online/@carmelo">@carmelo@mastodon.online</a></li>
+              </ul>
+           </ul>
+        <li>Coding and other geeky sites</li>
           <ul>
-            <li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li>
-            <li><a href="https://carmelo.onrender.com/">Render</a></li>
-            <li><a href="https://doxshare.netlify.app/">Netlify</a></li>
-          </ul>
+            <li><a href="https://github.com/carmelo0x99">GitHub</a></li>
+            <li><a href="https://gitlab.com/carmelo0x99/">GitLab</a></li>
+            <li><a href="https://bitbucket.org/carmelo0x99/">Bitbucket</a></li>
+            <li><a href="https://hub.docker.com/u/carmelo0x99">Docker Hub</a></li>
+              <ul>
+                <li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li>
+                <li><a href="https://carmelo.onrender.com/">Render</a></li>
+                <li><a href="https://doxshare.netlify.app/">Netlify</a></li>
+              </ul>
+           </ul>
        </ul>
-</ul>
-     </ul>
     </td>
     <td width="50%"><img src="Social_dino_with_hat.gif"></td>
   </tr>
