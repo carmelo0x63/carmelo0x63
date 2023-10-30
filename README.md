@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 </table>
 <table border="0" width="100%">
   <tr>
-    <td width="30%">Tools 🔧 of my trade ➙</td>
-    <td>
-      <table border="1" width="70%">
+    <td width="20%">Tools 🔧 of my trade ➙</td>
+    <td width="80%">
+      <table border="1">
         <tr>
           <td>
             <p>OSs/Infrastructure</p>
@@ -83,7 +83,6 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/-Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
             <img src="https://img.shields.io/badge/-K3s-0075A8.svg?style=flat&logo=rancher&logoColor=white">
             <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
-            </br>
             <img src="https://img.shields.io/badge/-VMware-607078.svg?style=flat&logo=vmware&logoColor=white">
             <img src="https://img.shields.io/badge/-Cisco-1BA0D7.svg?style=flat&logo=cisco&logoColor=white">
           </td>
@@ -138,10 +137,12 @@ Here are some ideas to get you started:
 </table>
 <table border="0" width="100%">
   <tr>
-    <td width="30%">
+    <td>
       <p>Old style resume:</p>
-      <pre>$ groff -man -Tascii ./carmelo.7</pre>
+      <pre>$ curl -sSLf https://raw.githubusercontent.com/carmelo0x99/carmelo0x99/main/carmelo.7 | groff -man -Tascii</pre>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./groff.png">
     </td>
