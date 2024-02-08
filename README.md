@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**carmelo0x99/carmelo0x99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**carmelo0x63/carmelo0x63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 - 📫 Reach me through:
   - [LinkedIn](https://www.linkedin.com/in/carmelo/)
   - [Keybase](https://keybase.io/carmelo)
-  - [GitHub](https://github.com/carmelo0x99)
-    - [GitHub Pages](https://carmelo0x99.github.io/)
-  - [GitLab](https://gitlab.com/carmelo0x99)
-  - [Bitbucket](https://bitbucket.org/carmelo0x99/)
+  - [GitHub](https://github.com/carmelo0x63)
+    - [GitHub Pages](https://carmelo0x63.github.io/)
+  - [GitLab](https://gitlab.com/carmelo0x63)
+  - [Bitbucket](https://bitbucket.org/carmelo0x63/)
   - [Render](https://carmelo.onrender.com/)
-  - [Docker Hub](https://hub.docker.com/u/carmelo0x99)
+  - [Docker Hub](https://hub.docker.com/u/carmelo0x63)
   - [Hachyderm.io](https://hachyderm.io/@carmelo)
   - [Mastodon.online](https://mastodon.online/@carmelo)
+  - [Instagram](https://www.instagram.com/carmelo0x63/)
+  - [Twitter](https://twitter.com/carmelo0x63)
   - [Reddit](https://www.reddit.com/user/carmelo0x99)
-  - [Instagram](https://www.instagram.com/carmelo0x99/)
-  - [Twitter](https://twitter.com/carmelo0x99)
 -->
 
 <table border="0" width="100%">
@@ -39,24 +39,24 @@ Here are some ideas to get you started:
           <ul>
             <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
             <li><a href="https://keybase.io/carmelo">Keybase</a></li>
-            <li><a href="https://www.reddit.com/user/carmelo0x99">Reddit</a></li>
-            <li><a href="https://www.instagram.com/carmelo0x99/">Instagram</a></li>
-            <li><a href="https://twitter.com/carmelo0x99">Twitter</a></li>
+<!--            <li><a href="https://www.reddit.com/user/carmelo0x99">Reddit</a></li>-->
+            <li><a href="https://www.instagram.com/carmelo0x63/">Instagram</a></li>
+            <li><a href="https://twitter.com/carmelo0x63">Twitter</a></li>
             <li><a href="https://joinmastodon.org/">Mastodon</a></li>
               <ul>
-                <li><a href="https://infosec.exchange/@carmelo0x99">@carmelo@infosec.exchange</a></li>
+                <li><a href="https://infosec.exchange/@carmelo0x63">@carmelo@infosec.exchange</a></li>
                 <li><a href="https://hachyderm.io/@carmelo">@carmelo@hachyderm.io</a></li>
                 <li><a href="https://mastodon.online/@carmelo">@carmelo@mastodon.online</a></li>
               </ul>
            </ul>
         <li>Coding and other geeky sites</li>
           <ul>
-            <li><a href="https://github.com/carmelo0x99">GitHub</a></li>
-            <li><a href="https://gitlab.com/carmelo0x99/">GitLab</a></li>
-            <li><a href="https://bitbucket.org/carmelo0x99/">Bitbucket</a></li>
-            <li><a href="https://hub.docker.com/u/carmelo0x99">Docker Hub</a></li>
+            <li><a href="https://github.com/carmelo0x63">GitHub</a></li>
+            <li><a href="https://gitlab.com/carmelo0x63/">GitLab</a></li>
+            <li><a href="https://bitbucket.org/carmelo0x63/">Bitbucket</a></li>
+            <li><a href="https://hub.docker.com/u/carmelo0x63">Docker Hub</a></li>
               <ul>
-                <li><a href="https://carmelo0x99.github.io/">GitHub Pages</a></li>
+                <li><a href="https://carmelo0x63.github.io/">GitHub Pages</a></li>
                 <li><a href="https://carmelo.onrender.com/">Render</a></li>
                 <li><a href="https://doxshare.netlify.app/">Netlify</a></li>
               </ul>
@@ -139,7 +139,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <p>Old style resume:</p>
-      <pre>$ curl -sSLf https://raw.githubusercontent.com/carmelo0x99/carmelo0x99/main/carmelo.7 | groff -man -Tascii</pre>
+      <pre>$ curl -sSLf https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 | groff -man -Tascii</pre>
     </td>
   </tr>
   <tr>
@@ -149,12 +149,12 @@ Here are some ideas to get you started:
   </tr>
 <!--  <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=radical">
     </td>
   </tr>//-->
 </table>
 
-[![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x99&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/c7930113-a83a-4a16-abdc-22bfb8a56fba "AWS Certified Cloud Practitioner")
