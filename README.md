@@ -44,9 +44,7 @@ Here are some ideas to get you started:
             <li><a href="https://twitter.com/carmelo0x63">Twitter</a></li>
             <li><a href="https://joinmastodon.org/">Mastodon</a></li>
               <ul>
-                <li><a href="https://infosec.exchange/@carmelo0x63">@carmelo@infosec.exchange</a></li>
-                <li><a href="https://hachyderm.io/@carmelo">@carmelo@hachyderm.io</a></li>
-                <li><a href="https://mastodon.online/@carmelo">@carmelo@mastodon.online</a></li>
+                <li><a href="https://mastodon.sdf.org/@carmelo">@carmelo@mastodon.sdf.org</a></li>
               </ul>
             <li><a href="https://www.instagram.com/carmelo0x63/">Instagram</a></li>
            </ul>
@@ -56,13 +54,14 @@ Here are some ideas to get you started:
             <li><a href="https://gitlab.com/carmelo0x63/">GitLab</a></li>
             <li><a href="https://bitbucket.org/carmelo0x63/">Bitbucket</a></li>
             <li><a href="https://hub.docker.com/u/carmelo0x63">Docker Hub</a></li>
-              <ul>
-                <li><a href="https://carmelo0x63.github.io/">GitHub Pages</a></li>
-                <li><a href="https://carmelo.onrender.com/">Render</a></li>
-                <li><a href="https://doxshare.netlify.app/">Netlify</a></li>
-              </ul>
-           </ul>
-       </ul>
+          </ul>
+        <li>Good 'ol static pages</li>
+          <ul>
+            <li><a href="https://carmelo0x63.github.io/">GitHub Pages</a></li>
+            <li><a href="https://zer0x63zer0x63.onrender.com/">Render</a></li>
+            <li><a href="https://zer0x63zer0x63.pages.dev/">Cloudflare</a></li>
+          </ul>
+      </ul>
     </td>
     <td width="50%"><img src="Social_dino_with_hat.gif"></td>
   </tr>
