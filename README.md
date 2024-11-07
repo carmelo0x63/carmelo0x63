@@ -71,6 +71,10 @@ Here are some ideas to get you started:
     <td>
       <p>Cloud-native:</p>
       <pre>$ docker run -it --rm carmelo0x99/resuman:latest</pre>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>CLI style:</p>
       <pre style="font-size: 10px">$ curl -sSLf https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 | groff -man -Tascii</pre>
     </td>
