@@ -64,7 +64,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <table border="0" width="100%">
-  <th style="text-align:left">My resume</th>
+  <tr>
+    <th style="text-align:left">My resume</th>
+  </tr>
   <tr>
     <td>
       <p>Cloud-native:</p>
