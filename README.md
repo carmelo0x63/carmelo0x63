@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <div width="80%" align="center"><img src="./groff.png"></div>
+      <div align="center"><img width="80%" src="./groff.png"></div>
     </td>
   </tr>
 </table>
