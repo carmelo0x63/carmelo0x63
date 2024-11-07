@@ -50,7 +50,7 @@ Here are some ideas to get you started:
             <li><a href="https://github.com/carmelo0x63">GitHub</a></li>
             <li><a href="https://gitlab.com/carmelo0x63/">GitLab</a></li>
             <li><a href="https://bitbucket.org/carmelo0x63/">Bitbucket</a></li>
-            <li><a href="https://hub.docker.com/u/carmelo0x63">Docker Hub</a> <a href="https://hub.docker.com/u/carmelo0x99">backup</a>()</li>
+            <li><a href="https://hub.docker.com/u/carmelo0x63">Docker Hub</a> (<a href="https://hub.docker.com/u/carmelo0x99">backup</a>)</li>
           </ul>
         <li>Good 'ol static pages</li>
           <ul>
