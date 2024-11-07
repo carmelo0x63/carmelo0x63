@@ -64,6 +64,22 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <table border="0" width="100%">
+  <th style="text-align:left">My resume</th>
+  <tr>
+    <td>
+      <p>Cloud-native:</p>
+      <pre>$ docker run -it --rm carmelo0x99/resuman:latest</pre>
+      <p>CLI style:</p>
+      <pre style="font-size: 10px">$ curl -sSLf https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 | groff -man -Tascii</pre>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./groff.png" width="80%">
+    </td>
+  </tr>
+</table>
+<table border="0" width="100%">
   <tr>
     <td width="20%">Tools 🔧 of my trade ➙</td>
     <td width="80%">
@@ -131,26 +147,6 @@ Here are some ideas to get you started:
       <p>Made with <a href="https://simpleicons.org/">Simple Icons</a> and <a href="https://shields.io">Shields.io</a>.</p>
     </td>
   </tr>
-</table>
-<table border="0" width="100%">
-  <tr>
-    <td>
-      <p>Old style:</p>
-      <pre>$ curl -sSLf https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 | groff -man -Tascii</pre>
-      <p>Cloud-native:</p>
-      <pre>$ docker run -it --rm carmelo0x99/resuman:latest</pre>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./groff.png">
-    </td>
-  </tr>
-<!--  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=radical">
-    </td>
-  </tr>//-->
 </table>
 
 [![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
