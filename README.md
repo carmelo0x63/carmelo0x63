@@ -138,7 +138,7 @@ Here are some ideas to get you started:
       <p>Old style:</p>
       <pre>$ curl -sSLf https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 | groff -man -Tascii</pre>
       <p>Cloud-native:</p>
-      <pre>$ docker run -it --rm carmelo0x99/resuman:latest</pre>
+      <pre>$ docker run --rm carmelo0x63/resuman:latest</pre>
     </td>
   </tr>
   <tr>
