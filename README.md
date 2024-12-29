@@ -39,7 +39,7 @@ Here are some ideas to get you started:
           <ul>
             <li><a href="https://www.linkedin.com/in/carmelo/">LinkedIn</a></li>
             <li><a href="https://keybase.io/carmelo">Keybase</a></li>
-<!--            <li><a href="https://www.reddit.com/user/carmelo0x99">Reddit</a></li>-->
+            <li><a href="https://www.reddit.com/user/carmelo0x63">Reddit</a></li>
             <li><a href="https://carmelo0x63.bsky.social">BlueSky</a></li>
             <li><a href="https://twitter.com/carmelo0x63">Twitter</a></li>
             <li><a href="https://mastodon.sdf.org/@carmelo">Mastodon</a></li>
