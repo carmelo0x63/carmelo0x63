@@ -166,6 +166,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:badges-->
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/d8f5e37f-9a5a-4b4b-90ed-3e4410077809 "AWS Cloud Quest: Cloud Practitioner")
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](http://www.credly.com/badges/2e1ca65d-f744-4bbb-8955-793954c4f285 "Certified in Cybersecurity (CC)")
+<a href="https://www.gsom.polimi.it/"><img src="https://github.com/carmelo0x63/carmelo0x63/blob/main/gsom_2023.png" width="120" height="120"></a>
 [![Data Science @Cisco Generative AI Blue Belt 2024](https://images.credly.com/size/110x110/images/9e811dcf-0a68-4bca-9dd6-1b58885e86ec/image.png)](http://www.credly.com/badges/fac77d18-91c8-47f0-84db-1ee3819da672 "Data Science @Cisco Generative AI Blue Belt 2024")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/a5bd96fb-a4d8-4597-9703-34c052cea9fe "AWS Certified Cloud Practitioner")
 [![Professional Services Engineer Green Belt](https://images.credly.com/size/110x110/images/77926150-00bf-4908-8c11-5841aa2456e7/Green_Belt-Professional_Services_Engineer.png)](http://www.credly.com/badges/c6b4ec84-f00f-4d5d-85ec-89f92d63cc6b "Professional Services Engineer Green Belt")
