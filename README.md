@@ -164,6 +164,7 @@ Here are some ideas to get you started:
 [![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
+[![ISC2 CISSP](https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png)](https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png "ISC2 CISSP")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/d8f5e37f-9a5a-4b4b-90ed-3e4410077809 "AWS Cloud Quest: Cloud Practitioner")
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](http://www.credly.com/badges/2e1ca65d-f744-4bbb-8955-793954c4f285 "Certified in Cybersecurity (CC)")
 <a href="https://www.gsom.polimi.it/"><img src="https://github.com/carmelo0x63/carmelo0x63/blob/main/gsom_2023.png" width="120" height="120"></a>
