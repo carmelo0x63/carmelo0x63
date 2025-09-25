@@ -45,6 +45,7 @@ Here are some ideas to get you started:
            </ul>
         <li>Coding and other geeky sites</li>
           <ul>
+            <li><a href="https://codeberg.org/carmelo">Codeberg</a></li>
             <li><a href="https://github.com/carmelo0x63">GitHub</a></li>
             <li><a href="https://gitlab.com/carmelo0x63/">GitLab</a></li>
             <li><a href="https://bitbucket.org/carmelo0x63/">Bitbucket</a></li>
