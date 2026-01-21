@@ -165,7 +165,6 @@ Here are some ideas to get you started:
 [![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
-<a href="https://www.gsom.polimi.it/" title="Politecnico di Milano Graduate School of Management"><img src="gsom_2023.png" alt="POLIMI GSoM" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d3833adc-f703-41e9-8d30-c36f921f12f3" title="Cisco Certificate in Ethical Hacking"><img src="https://images.credly.com/size/80x80/images/c72cea65-b88a-4a72-bf44-dc41b04248b7/image.png" alt="Cisco Certificate in Ethical Hacking" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/06181b25-fcb6-497a-acb5-21ddc59cbc66" title="Offensive Security Capture the Flag - Operation SMB Exploit"><img src="https://images.credly.com/size/80x80/images/177d5e04-8548-431a-a70d-1e89413ec7ed/blob" alt="Offensive Security Capture the Flag - Operation SMB Exploit" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/de913a86-a1e4-40a5-9ba7-eadf7b96dc5e" title="Ethical Hacker"><img src="https://images.credly.com/size/80x80/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="80" height="80"></a>
@@ -177,5 +176,6 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/c6b4ec84-f00f-4d5d-85ec-89f92d63cc6b" title="Professional Services Engineer Green Belt"><img src="https://images.credly.com/size/80x80/images/77926150-00bf-4908-8c11-5841aa2456e7/Green_Belt-Professional_Services_Engineer.png" alt="Professional Services Engineer Green Belt" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d49d73fb-0030-43af-8ce3-534a41f82b61" title="DevNet Class of 2020"><img src="https://images.credly.com/size/80x80/images/4d054f39-f581-4442-8923-c5cd32720ef6/Classof2020-badge-600x600.png" alt="DevNet Class of 2020" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9e87e217-be00-4d9f-a2e9-ebbe7443e144" title="AI for Everyone - User"><img src="https://images.credly.com/size/80x80/images/b1e62643-ef17-4ddc-a950-24e795cc08fe/blob" alt="AI for Everyone - User" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/65c00474-972b-4636-b9c0-506643260142" title="Implementing and Configuring Cisco Identity Services Engine"><img src="https://images.credly.com/size/80x80/images/98d3bde9-2729-463b-8e75-9d9ae35b0f54/blob" alt="Implementing and Configuring Cisco Identity Services Engine" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
