@@ -165,6 +165,7 @@ Here are some ideas to get you started:
 [![Carmelo's Credly badges](https://github-readme-stats.vercel.app/api?username=carmelo0x63&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:badges-->
+<a href="https://www.gsom.polimi.it/" title="Politecnico di Milano Graduate School of Management"><img src="gsom_2023.png" alt="POLIMI GSoM" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d3833adc-f703-41e9-8d30-c36f921f12f3" title="Cisco Certificate in Ethical Hacking"><img src="https://images.credly.com/size/80x80/images/c72cea65-b88a-4a72-bf44-dc41b04248b7/image.png" alt="Cisco Certificate in Ethical Hacking" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/06181b25-fcb6-497a-acb5-21ddc59cbc66" title="Offensive Security Capture the Flag - Operation SMB Exploit"><img src="https://images.credly.com/size/80x80/images/177d5e04-8548-431a-a70d-1e89413ec7ed/blob" alt="Offensive Security Capture the Flag - Operation SMB Exploit" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/de913a86-a1e4-40a5-9ba7-eadf7b96dc5e" title="Ethical Hacker"><img src="https://images.credly.com/size/80x80/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="80" height="80"></a>
