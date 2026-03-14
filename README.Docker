@@ -1,0 +1,10 @@
+### Docker instructions
+
+#### Quick build and run
+```
+docker build -t carmelo0x63/resuman:<tag> --load .
+
+docker run --rm carmelo0x63/resuman:<tag>
+```
+
+
