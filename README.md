@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <pre style="font-size: 10px">$ curl -sSLf https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 | groff -man -Tascii</pre>
+      <pre style="font-size: 10px">$ curl -fsSL -H 'Cache-Control: no-cache' https://codeberg.org/carmelo/resuman/raw/branch/main/carmelo.7 | groff -man -Tascii</pre>
     </td>
   </tr>
   <tr>
