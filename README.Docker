@@ -7,4 +7,8 @@ docker build -t carmelo0x63/resuman:<tag> --load .
 docker run --rm carmelo0x63/resuman:<tag>
 ```
 
+#### Build multiplatform image
+```
+docker buildx build --no-cache --platform linux/amd64,linux/arm64,linux/arm/v7 -t carmelo0x63/resuman:<tag> --load .
+```
 

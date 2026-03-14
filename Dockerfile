@@ -5,4 +5,5 @@ RUN apk --no-cache add curl groff
 WORKDIR ${DESTDIR}
 RUN adduser -h ${DESTDIR} -D user
 USER user
-CMD ["sh", "-c", "curl -fsSL https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 -o carmelo.7 && /usr/bin/groff -man -Tascii carmelo.7"]
+#CMD ["sh", "-c", "curl -fsSL https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 -o carmelo.7 && /usr/bin/groff -man -Tascii carmelo.7"]
+CMD ["sh", "-c", "curl https://raw.githubusercontent.com/carmelo0x63/carmelo0x63/main/carmelo.7 -o carmelo.7 && /usr/bin/groff -man -Tascii carmelo.7"]
