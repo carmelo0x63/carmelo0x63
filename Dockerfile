@@ -1,4 +1,4 @@
-FROM alpine:3.22 AS runtime
+FROM alpine:3.23
 LABEL org.opencontainers.image.authors="carmelo[DOT]califano[AT]gmail[DOT]com"
 ENV DESTDIR=/app
 RUN apk --no-cache add curl groff
